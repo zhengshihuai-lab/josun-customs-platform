@@ -18,6 +18,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application files
 COPY *.py ./
+COPY *.xlsx ./
 
 # Create data directory
 RUN mkdir -p 平台數據/step_data 平台數據/uploads 平台數據/outputs
