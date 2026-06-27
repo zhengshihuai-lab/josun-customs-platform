@@ -1,2 +1,2 @@
-# No external dependencies - uses Python stdlib only
-# This file exists for Render.com compatibility
+# JOSUN customs automation tool dependencies
+openpyxl>=3.1.0
