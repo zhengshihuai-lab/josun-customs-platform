@@ -1,0 +1,17 @@
+# Data directory (runtime generated)
+平台數據/
+
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# WeDrive
+.WeDrive
+
+# Backups
+*_backup*
